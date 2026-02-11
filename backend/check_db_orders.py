@@ -19,7 +19,7 @@ class Order(Document):
         name = "orders"
 
 async def check_orders():
-    client = AsyncIOMotorClient("mongodb+srv://anmolmayank111_db_user:zAt2C4M4qNQ8WHOr@cluster0.my44pld.mongodb.net/?appName=Cluster0")
+    client = AsyncIOMotorClient("")
     await init_beanie(database=client.order_followup_db, document_models=[Order])
     
     all_orders = await Order.find_all().to_list()
@@ -32,3 +32,4 @@ async def check_orders():
 
 if __name__ == "__main__":
     asyncio.run(check_orders())
+
