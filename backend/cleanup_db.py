@@ -2,7 +2,7 @@ import asyncio
 from motor.motor_asyncio import AsyncIOMotorClient
 
 async def cleanup_database():
-    uri = "mongodb+srv://anmolmayank111_db_user:zAt2C4M4qNQ8WHOr@cluster0.my44pld.mongodb.net/?appName=Cluster0"
+    uri = ""
     db_name = "order_followup_db"
     
     print(f"🧹 Connecting to {db_name}...")
@@ -25,3 +25,4 @@ async def cleanup_database():
 
 if __name__ == "__main__":
     asyncio.run(cleanup_database())
+
