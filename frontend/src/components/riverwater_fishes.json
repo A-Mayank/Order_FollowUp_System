@@ -1,0 +1,56 @@
+[
+  {
+    "id": "riverwater_1",
+    "name": "Premium Freshwater Rahu/Catla Whole Fish",
+    "category": "riverwater_fish",
+    "price": "From ₹ 92",
+    "image": "https://www.nuste.in/cdn/shop/files/rohufish1.jpg?v=1710501014&width=533",
+    "url": "https://www.nuste.in/products/premium-freshwater-rahu-catla-whole-fish",
+    "availability": true
+  },
+  {
+    "id": "riverwater_2",
+    "name": "Fresh Local Kalundar Fish",
+    "category": "riverwater_fish",
+    "price": "₹ 400",
+    "image": "https://www.nuste.in/cdn/shop/files/kalundarfish1.jpg?v=1710413054&width=533",
+    "url": "https://www.nuste.in/products/fresh-local-kalundar-fish",
+    "availability": true
+  },
+  {
+    "id": "riverwater_3",
+    "name": "Fresh Premium Indian Salmon Whole Fish (Rawas)",
+    "category": "riverwater_fish",
+    "price": "From ₹ 250",
+    "image": "https://www.nuste.in/cdn/shop/files/indian_salmon_edited_3.jpg?v=1710414753&width=533",
+    "url": "https://www.nuste.in/products/fresh-premium-indian-salmon-whole-fish-rawas",
+    "availability": true
+  },
+  {
+    "id": "riverwater_4",
+    "name": "Fresh Tilapia Fish Whole",
+    "category": "riverwater_fish",
+    "price": "From ₹ 110",
+    "image": "https://www.nuste.in/cdn/shop/files/tilapiawholefish.jpg?v=1710477938&width=533",
+    "url": "https://www.nuste.in/products/fresh-tilapia-fish-whole",
+    "availability": true
+  },
+  {
+    "id": "riverwater_5",
+    "name": "Frozen River Indian Salmon Fish",
+    "category": "riverwater_fish",
+    "price": "From ₹ 160",
+    "image": "https://www.nuste.in/cdn/shop/files/Indian_Salmon_Fillet.jpg?v=1711007139&width=533",
+    "url": "https://www.nuste.in/products/fresh-river-indian-salmon-boneless-fish-fillet",
+    "availability": true
+  },
+  {
+    "id": "riverwater_6",
+    "name": "Fresh Goan Seawater Palu Fish",
+    "category": "riverwater_fish",
+    "price": "From ₹ 200",
+    "image": "https://www.nuste.in/cdn/shop/files/palufish.jpg?v=1710754208&width=533",
+    "url": "https://www.nuste.in/products/fresh-goan-seawater-palu-fish",
+    "availability": true
+  }
+]
